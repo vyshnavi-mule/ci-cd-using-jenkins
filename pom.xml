@@ -43,7 +43,6 @@
 						<vCores>0.1</vCores>
 						<properties>
 							<mule.env>${mule.env}</mule.env>
-							<mule.instance>${mule.instance}</mule.instance>
 							<anypoint.platform.client_id>${client_id}</anypoint.platform.client_id>
 							<anypoint.platform.client_secret>${client_secret}</anypoint.platform.client_secret>
 						</properties>
